@@ -84,6 +84,6 @@ A API está hospedada no Render, facilitando o deploy automático do projeto. Pa
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 
 **Hugo Leonardo**
-📧 Contato: *seu-email@example.com*
+📧 Contato: *hugo701545@gmail.com*
